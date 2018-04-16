@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>pu poll</title>
+</head>
+<body>
+<div align="center">
+<h1>pu poll</h1>
+username:<input type="text" name="username"><br>
+password:<input type="text" name="password"><br>
+<button type="button">login</button>
+</body>
+</html> 
